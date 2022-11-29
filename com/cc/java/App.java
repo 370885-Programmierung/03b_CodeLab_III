@@ -4,6 +4,9 @@ public class App {
     
     public static void main(String[] args) {
      
+        Person person new Person() {
+            
+        };
     }
 
     public static void output(String outputStr) {
